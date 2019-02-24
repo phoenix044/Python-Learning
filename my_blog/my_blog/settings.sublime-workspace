@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"A",
+				"ArticlePost"
+			],
+			[
+				"c",
+				"columns"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"Ar",
+				"ArticleColumn"
+			],
+			[
+				"n",
+				"next_article"
+			],
+			[
+				"p",
+				"pre_article"
+			],
+			[
+				"Article",
+				"ArticlePost"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"to",
+				"total_views"
+			],
+			[
+				"ar",
+				"article_list"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"v",
+				"views"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"b",
+				"blank"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"bo",
+				"body_icontains"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"a",
+				"article_list"
+			],
+			[
+				"arti",
+				"articles"
+			],
+			[
+				"art",
+				"article_list"
+			],
+			[
+				"auth",
+				"author"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"pa",
+				"paginator"
+			],
+			[
+				"article",
+				"article_list"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"col",
+				"col-md-4"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"Pro",
+				"ProfileForm"
+			],
+			[
+				"user",
+				"userprofile"
+			],
+			[
+				"login_",
+				"login_url"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"incl",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/MyBlogs/Workspace/django_project/my_blog/my_blog/settings.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/article/urls.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/templates/header.html",
+		"/E/MyBlogs/Workspace/django_project/my_blog/templates/article/update.html",
+		"/E/MyBlogs/Workspace/django_project/my_blog/templates/article/detail.html",
+		"/E/MyBlogs/Workspace/django_project/my_blog/templates/article/list.html",
+		"/E/MyBlogs/Workspace/django_project/my_blog/comment/forms.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/my_blog/urls.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/templates/base.html",
+		"/E/MyBlogs/Workspace/django_project/my_blog/article/admin.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/article/views.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/article/models.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/article/forms.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/templates/userprofile/login.html",
+		"/E/MyBlogs/Workspace/django_project/my_blog/templates/userprofile/edit.html",
+		"/E/MyBlogs/Workspace/django_project/my_blog/templates/footer.html",
+		"/E/MyBlogs/Workspace/django_project/my_blog/templates/article/create_by_class_view.html",
+		"/E/MyBlogs/Workspace/django_project/my_blog/templates/article/create.html",
+		"/E/MyBlogs/Workspace/django_project/my_blog/comment/urls.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/comment/views.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/userprofile/views.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/userprofile/urls.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/userprofile/admin.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/userprofile/models.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/userprofile/forms.py",
+		"/E/MyBlogs/Workspace/django_project/my_blog/userprofile/login.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "settings.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
